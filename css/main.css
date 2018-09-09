@@ -1,0 +1,147 @@
+/***** Header *****/
+header{
+  width: 1400px;
+  padding: 20px;
+}
+
+header h1 span{
+  color:#228B22;
+  font-size: 30px;
+  font-family: sans-serif;
+
+
+}
+
+header h1{ 
+  font-size: 30px;
+  font-family: sans-serif;
+
+}
+
+nav{
+  float: right;
+  padding: 0;
+  position: relative;
+  bottom: 65px;
+}
+
+nav ul li{
+display: inline-block;
+}
+nav ul li a {
+  text-transform: inherit;
+  text-decoration: none;
+  font-size: 20px;
+  color: #228B22;
+  padding-left: 80px;
+}
+
+
+
+
+
+/***** Body*****/
+.full-width h3{
+  color:#228B22;
+  font-size: 30px;
+  padding-left: 20px;
+}
+.full-width{
+  font-size: 25px;
+  padding-left: 20px;
+}
+
+.thrid-class {
+  width: 1500px;
+  padding: 118px 301px;
+  border: grey solid;
+}
+
+.todays{
+  display: block;
+  padding: 5px 5px;
+  text-align: center;
+  float: left;
+  margin: 130px 130px;
+  padding: 5px 5px;
+  border:grey solid;
+}
+.todays h4{
+  color: black;
+  float: left;
+  font-size: 40px;
+
+}
+
+.todays ul li{
+  display: block;
+  color: #228B22;
+  clear: both;
+ position: relative;
+ right: 40px;
+ line-height: 50px;
+}
+
+.reviews{
+  display: block;
+  height: auto;
+  width: 400px;
+  text-align: center;
+  padding: 5px 5px;
+  margin: 20px 20px;
+  overflow:auto;
+  float: left;
+  position: relative;
+  top: 110px;
+   border: grey solid;
+
+
+
+}
+.reviews h4{
+  display:block;
+  color: #228B22;
+  font-size: 40px;
+}
+
+
+
+.contact h4 {
+  color: #228B22;
+  font-size: 45px;
+}
+
+.contact{
+  display:block;
+  font-size: 20px;
+  text-align: center;
+  border: grey solid;
+  float: right;
+  margin: 70px 70px;
+  height: auto;
+  width: 300px;
+  padding: 5px 5px;
+  position: absolute;
+  top: 1140px;
+    left: 1100px;
+
+
+
+}
+
+/***** footer *****/
+
+footer span{
+  color: #228B22;
+  font-size: 20px;
+}
+
+footer{
+  border: grey solid;
+  text-align: center;
+  position: relative;
+  left:1px;
+  font-size: 20px;
+  clear: both;
+
+}
